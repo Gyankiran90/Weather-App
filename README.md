@@ -1,1 +1,12 @@
-Its an Weather Application that we can watch any country or state in the world.
+
+### Responsive Weather Website
+
+- Responsive Bakery Website Design Using HTML CSS And JavaScript.
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Contains an elegant dark theme.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+![preview img](/Weather.png)
+
